@@ -1,4 +1,4 @@
-Inplace::Application.routes.draw do
+Inplace::Application.routes.draw do    
   resources :users
 
 
